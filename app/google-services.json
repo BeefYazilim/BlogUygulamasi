@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404448938082",
+    "firebase_url": "https://bseublog.firebaseio.com",
+    "project_id": "bseublog",
+    "storage_bucket": "bseublog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404448938082:android:24edbd7e4dc055e4",
+        "android_client_info": {
+          "package_name": "com.example.enesileri.bseublog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404448938082-t780bujpqubf5ipeihappoes1qnomi6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enesileri.bseublog",
+            "certificate_hash": "2fc05cc6074fd394722aa6936891bdeb9c3be0d0"
+          }
+        },
+        {
+          "client_id": "404448938082-j23t9n6m8ukisdqs4l7sllr1uka9utbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALmX7G99MMjj1rqrunV3f4XmZtwIfX7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404448938082-j23t9n6m8ukisdqs4l7sllr1uka9utbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
